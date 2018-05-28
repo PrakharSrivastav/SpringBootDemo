@@ -1,5 +1,6 @@
 package com.springbootstarter;
 
+import org.springframework.boot.Banner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -7,8 +8,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CourseApiApp {
 
     // Create and start a server
-    public static void main(String[] args) {
-        SpringApplication.run(CourseApiApp.class, args);
+    public static void main(final String[] args) {
+        final SpringApplication app = new SpringApplication(CourseApiApp.class);
+        app.setBannerMode(Banner.Mode.OFF);
+        app.run(args);
     }
 
 }
