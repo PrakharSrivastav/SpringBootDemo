@@ -341,6 +341,9 @@
     <SUITE FILE_PATH="coverage/SpringBootDemo$TopicControllerWebMVCTest.ic" NAME="TopicControllerWebMVCTest Coverage Results" MODIFIED="1639168265935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.springbootstarter.topics.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/SpringBootDemo$TopicControllerIntTest_TestGetAllTopics.ic" NAME="TopicControllerIntTest.TestGetAllTopics Coverage Results" MODIFIED="1639232283001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.springbootstarter.topics.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/SpringBootDemo$TopicControllerUnitTest_GetTopic.ic" NAME="TopicControllerUnitTest.GetTopic Coverage Results" MODIFIED="1639166363298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.springbootstarter.topics.*</FILTER>
     </SUITE>
